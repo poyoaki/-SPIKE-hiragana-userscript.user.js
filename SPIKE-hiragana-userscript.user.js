@@ -344,7 +344,7 @@
         : 'ひらがな: OFF (クリックでON)';
     };
     btn.style.cssText =
-      'position:fixed;bottom:12px;right:12px;z-index:999999;' +
+      'position:fixed;bottom:80px;right:12px;z-index:999999;' +
       'padding:6px 10px;font-size:12px;border-radius:6px;border:1px solid #999;' +
       'background:#fff;cursor:pointer;opacity:0.85;';
     render();
